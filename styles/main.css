@@ -11,7 +11,7 @@ body {
     width: 800px;
     margin: 0 auto;
     border: 3px solid #f8031c;
-    background-color: #2500f8;
+    background-color: #aef800;
 }
 a:focus, a:hover {
 	font-style: italic;
@@ -21,7 +21,7 @@ header {
 	padding-bottom: 2em;
 	border-bottom: 3px solid #fd0019;
 	background-image: linear-gradient(
-	    45deg, rgb(10, 6, 250) 0%, rgb(0, 26, 255) 30%, white 50%, rgb(0, 25, 253) 80%, rgb(55, 0, 255) 100%);
+	    45deg, rgb(156, 250, 6) 0%, rgb(156, 250, 6) 30%, white 50%, rgb(156, 250, 6) 80%, rgb(156, 250, 6) 100%);
 }
 header h2 {
 	font-size: 170%;
@@ -118,7 +118,7 @@ footer {
 }
 footer p {
 	text-align: center;
-	color: white;
+	color: rgb(245, 8, 8);
 	padding-top: 1em;
 	padding-bottom: 1em;
 }
